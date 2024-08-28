@@ -1,5 +1,5 @@
 # Gran_Bazar   
-Gran_Bazar - Proyecto Integrador
+## Gran_Bazar - Proyecto Integrador
 Este proyecto es parte de mi formación en las materias de Aplicaciones Web, Base de Datos para Aplicaciones e Integradora en el tercer cuatrimestre de la carreta TSU Tecnologías De La Información Área Desarrollo De Software Multiplataforma. Se trata de una aplicación web que simula un sistema para gestionar prendas en un bazar.
 
 
