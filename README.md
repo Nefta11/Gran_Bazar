@@ -3,7 +3,7 @@
 Este proyecto es parte de mi formación en las materias de Aplicaciones Web, Base de Datos para Aplicaciones e Integradora en el tercer cuatrimestre de la carreta TSU Tecnologías De La Información Área Desarrollo De Software Multiplataforma. Se trata de una aplicación web que simula un sistema para gestionar prendas en un bazar.
 
 
-###Objetivo del Proyecto
+### Objetivo del Proyecto
 El objetivo principal de este proyecto es desarrollar una aplicación web que permita a los usuarios:
 
 Crear una cuenta de usuario.
