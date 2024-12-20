@@ -11,7 +11,7 @@ Iniciar sesión para acceder a funcionalidades personalizadas.
 Ver los productos disponibles obtenidos dinámicamente desde una base de datos.
 Utilizar un carrito de apartado, donde un usuario puede apartar una prenda para posteriormente ir a comprarla físicamente.
 
-###Tecnologías Utilizadas
+### Tecnologías Utilizadas
 HTML y CSS: Utilizados para estructurar y dar estilo a las páginas web, proporcionando una experiencia visual agradable para el usuario.
 JavaScript (JS): Implementado para mejorar la interactividad de la aplicación en el lado del cliente.
 PHP: Utilizado para la lógica del backend y la conexión con la base de datos.
