@@ -23,6 +23,6 @@ Inicio de Sesión: Permite a los usuarios iniciar sesión para acceder a funcion
 Catálogo de Prendas: Visualiza los productos disponibles obtenidos de la base de datos.
 Carrito de Apartado: Permite a los usuarios apartar prendas para su posterior compra física.
 
-##Configuración de la Base de Datos
+## Configuración de la Base de Datos
 La base de datos fue modelada y poblada mediante procedimientos almacenados, funciones y triggers, generando así una simulación de datos realista.
 
